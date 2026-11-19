@@ -21,6 +21,8 @@ This repository is one of five approved foundational roots under **WisdomCore (L
 - ارزش‌گذاری هنجاری (WisdomAxiology)
 - اجرای تصمیم (WisdomPraxeology)
 
+- Purpose, mission, ultimate ends and direction (WisdomTeleology)
+- Operational authorization and execution lifecycle (WisdomPraxeology)
 ## Repository status
 
 - Status: **Foundation baseline — v0.1.0 proposal**
