@@ -12,7 +12,7 @@ A disciplined framework for how Wisdom Intercessor forms, evaluates, stores, com
 
 ## 2. Architectural position
 
-This root is one of four mutually informing foundations: WisdomOntology, WisdomEpistemology, WisdomAxiology, and WisdomPraxeology. WisdomCore coordinates their shared architecture and standards. The roots inform all eight operational branches and the three realms Wis, Dom, and Land; they do not replace operational ownership.
+This root is one of five mutually informing foundations: WisdomOntology, WisdomEpistemology, WisdomAxiology, WisdomTeleology, and WisdomPraxeology. WisdomCore coordinates their shared architecture and standards. The roots inform all eight operational branches and the three realms Wis, Dom, and Land; they do not replace operational ownership.
 
 ## 3. Scope
 
@@ -29,7 +29,7 @@ This root is one of four mutually informing foundations: WisdomOntology, WisdomE
 - ارزش‌گذاری هنجاری (WisdomAxiology)
 - اجرای تصمیم (WisdomPraxeology)
 
-Cross-root interfaces must be explicit: ontology supplies modeled entities and relations; epistemology evaluates claims and evidence; axiology supplies values and evaluative criteria; praxeology organizes deliberation and action. None may unilaterally redefine the others' scope.
+Cross-root interfaces must be explicit and bounded: Ontology supplies canonical concepts and relations; Epistemology evaluates claims and evidence; Axiology supplies normative values and criteria; Teleology supplies purpose, ultimate ends and direction; Praxeology organizes context-specific goals, deliberation, authorization and action. None may unilaterally redefine another root's scope.
 
 ## 5. Foundational principles
 
